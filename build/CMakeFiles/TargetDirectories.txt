@@ -1,3 +1,0 @@
-/Users/dxn/Desktop/notbomberman/build/CMakeFiles/notbomberman.dir
-/Users/dxn/Desktop/notbomberman/build/CMakeFiles/edit_cache.dir
-/Users/dxn/Desktop/notbomberman/build/CMakeFiles/rebuild_cache.dir

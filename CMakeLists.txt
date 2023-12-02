@@ -3,7 +3,7 @@ project(notbomberman VERSION 1.0)
 set(CMAKE_CXX_STANDARD 20)
 
 set(SOURCES /Users/dxn/Desktop/notbomberman/src/main.cpp)
-include_directories(/Users/dxn/Desktop/notbomberman/header)
+include_directories(/Users/dxn/Desktop/notbomberman/headers)
 
 find_package(OpenGL REQUIRED)
 
